@@ -1,0 +1,47 @@
+header {
+  background-color: red;
+  padding: 1rem;
+  color: white;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+nav {
+  background-color: rgb(112, 112, 250);
+  padding: 0.5rem;
+  text-align: center;
+  margin-bottom: 0.2rem;
+}
+nav h1 {
+  margin: 0rem;
+}
+aside {
+  float: left;
+  background-color: orange;
+  width: 30%;
+  height: 40vh;
+  text-align: center;
+}
+/* aside h1 {
+  font-size: 1.5rem;
+  margin-top: 5rem;
+  margin-left: 5rem;
+  width: 50%;
+} */
+main {
+  background-color: rgb(187, 185, 185);
+  width: 70%;
+  height: 40vh;
+  float: right;
+  text-align: center;
+}
+.clearfix {
+  clear: both;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.665);
+  color: white;
+  padding: 2rem;
+  margin-top: 0.2rem;
+  text-align: center;
+}
